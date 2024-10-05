@@ -1,0 +1,18 @@
+.header_container{
+  width: 315px;
+  height: 75px;
+  margin-left: 150px;
+  margin-top: 30px;
+  font-size: 24px;
+  line-height: 72px;
+  font-weight: bolder;
+}
+.text_container{
+    width: 975px;
+    height: 72px;
+    margin-left: 150px;
+    font-weight: 600;
+    color: #5A5959;
+    font-size: 16px;
+    line-height: 24px;
+}

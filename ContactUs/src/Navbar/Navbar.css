@@ -1,0 +1,20 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+.nav_container{
+ margin: 10px 60px;
+ display: flex;
+ justify-content: space-between;
+ align-items: center;
+}
+.nav_container ul{
+    display: flex;
+    list-style: none;
+
+
+}
+li{
+    margin-right: 15px;
+}
